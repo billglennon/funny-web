@@ -6,7 +6,6 @@ import random
 app = Flask(__name__)
 
 
-
 @app.route('/')
 def tell_a_joke():
     joke = random.choice(jokes)
