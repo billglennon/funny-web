@@ -1,2 +1,2 @@
 funny-web app
-Part of Tlak Python Course training.
+Part of Talk Python Course training.
